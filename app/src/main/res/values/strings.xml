@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MInCalculator</string>
+    <string name="t1">Calculate Your</string>
+    <string name="t2">AGE</string>
+    <string name="t3">In Minutes</string>
+    <string name="title">Minutez App</string>
+</resources>
